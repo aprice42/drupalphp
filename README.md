@@ -1,3 +1,12 @@
+# About
+A docker setup for running and debugging Drupal locally.
+
+## Stack
+  - Apache
+  - MariaDB
+  - PHP 7.2
+  - Xdeug
+
 # Setup
   - Add project files to /app directory
   - run `docker-compose up -d` from root directory
